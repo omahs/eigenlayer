@@ -184,7 +184,7 @@ It will also show the private key only once, so that you can back it up in case 
 
 ### List keys
 
-You can also list you created key using
+You can also list your created keys using
 
 ```bash
 eigenlayer operator keys list
